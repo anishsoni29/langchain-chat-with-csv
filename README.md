@@ -1,4 +1,4 @@
-[![Official Website](https://img.shields.io/badge/csv_chat-green)](https://chat-with-csv-lc.streamlit.app/)
+[![Official Website](https://img.shields.io/badge/csv-chat-green)](https://chat-with-csv-lc.streamlit.app/)
 
 # Langchain Chat-CSV with OpenAI
 
